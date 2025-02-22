@@ -1,0 +1,6 @@
+
+networkx 
+plotly
+numpy
+scipy
+pygame>=2.0.2
